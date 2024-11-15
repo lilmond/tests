@@ -1,6 +1,7 @@
 # This script plays an alarm sound effect when your mouse has been moved.
 # Budget security system for protecting your base from robbers.
 # Just attach a string to your mouse and your door.
+# Don't forget to download Alarm sound effect.mp3
 
 # Requiresments:
 # pynput
